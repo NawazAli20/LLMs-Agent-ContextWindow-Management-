@@ -1,4 +1,4 @@
-![AI agent context window management: summarize, trim, and delete messages](output/agent-context-window-banner.png)
+![AI agent context window management: summarize, trim, and delete messages](output/middleware-slides/agent-context-window-banner.png)
 
 # Stop Context Overload!
 
